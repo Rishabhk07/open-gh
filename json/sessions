@@ -110,6 +110,11 @@
                 "id": 3, 
                 "name": "Lim Tit Meng", 
                 "organisation": "Science Centre Singapore"
+            },
+ 		{
+                "id": 2, 
+                "name": "Mario Behling", 
+                "organisation": "MBM"
             }
         ], 
         "state": "accepted", 
